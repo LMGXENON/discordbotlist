@@ -1,24 +1,24 @@
 module.exports = {
     bot: {
-        token: "ODU0NzczNzIzODMwNjgxNjgw.YMo0EA.y_LuokDwBG7nN2k8E99mxBAQMyA",
+        token: "",
         prefix: "-",
-        owners: ["821696185647497256"],
-        mongourl: "mongodb+srv://xenon:waleedaamir2005@cluster0.xwsd4.mongodb.net/lmgxenon?retryWrites=true&w=majority"
+        owners: [""],
+        mongourl: ""
 
     },
 
     website: {
-        callback: "https://discordbotlist.lmgxenon.repl.co/callback",
-        secret: "jQIq-VZDQNQb3huSFU62P_DqpmXZ4Faw",
+        callback: "/callback",
+        secret: "",
         clientID: "854773723830681680",
         tags: [ "Moderation", "Fun", "Minecraft","Economy","Guard","NSFW","Anime","Invite","Music","Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Turkish" ]    
     },
 
     server: {
-        id: "844138740435124225",
+        id: "",
         roles: {
             yonetici: "",
-            moderator: "852903256434278422",
+            moderator: "",
             profile: {
                 booster: "",
                 sponsor: "",
@@ -36,10 +36,10 @@ module.exports = {
                 yirmidavet: "YIRMIDAVET"
             },
             botlist: {
-                developer: "821696185647497256",
-                certified_developer: "821696185647497256",
+                developer: "",
+                certified_developer: "",
                 bot: "",
-                certified_bot: "858402618904936459"
+                certified_bot: ""
             }
         },
         channels: {
